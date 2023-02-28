@@ -1,1 +1,1 @@
-# php_day10
+#Digital School Class Example in PHP
